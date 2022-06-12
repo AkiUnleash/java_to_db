@@ -2,7 +2,7 @@ import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.SQLException;
 
-public class PostgreSQLSample1 {
+public class PostgreSQLSample {
 
     public static void main(String[] args) throws SQLException {
 
